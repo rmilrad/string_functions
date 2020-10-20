@@ -1,0 +1,11 @@
+﻿  string_class.cpp
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 3\Assignment 3\string_class.cpp(82,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 3\Assignment 3\string_class.cpp(83,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 3\Assignment 3\string_class.cpp(87,60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 3\Assignment 3\string_class.cpp(91,60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 3\Assignment 3\string_class.cpp(115,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 3\Assignment 3\string_class.cpp(127,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 3\Assignment 3\string_class.cpp(146,12): warning C4018: '>': signed/unsigned mismatch
+  string_class_driver.cpp
+  Generating Code...
+  Assignment 3.vcxproj -> C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 3\Debug\Assignment 3.exe
